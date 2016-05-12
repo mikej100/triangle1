@@ -1,0 +1,10 @@
+# Unit test and coverage reports
+htmlcov/
+.tox/
+.coverage.*
+.coverage
+.cache
+
+# Django
+*.log
+local_settings.py
